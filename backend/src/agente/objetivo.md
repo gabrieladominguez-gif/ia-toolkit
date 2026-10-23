@@ -23,4 +23,4 @@ breve, exacta y con fuentes, para que un editor humano lo apruebe antes de publi
 
 ## Lo que el equipo editorial quiere cambiar
 
-incluir el nivel de educación de los desocupados
+Incluir el nivel de estudios de los desocupados
